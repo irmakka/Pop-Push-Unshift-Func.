@@ -39,6 +39,8 @@
 
 
 main(){
+       //Made the push function with maxSize 5 
+	//If you want to use push, change the array[6] to array[5]
 	int array[6]={1,2,3,4,5};
 	int size=5;
 	//push(array,&size,6,5);
